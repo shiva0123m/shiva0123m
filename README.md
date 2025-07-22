@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Jakkanwar</h1>
-<h3 align="center">Profile Summary Software Engineer with 1+ years of experience in designing and building scalable, distributed backend systems and microservices using C (.NET Core), Java (Spring Boot), and cloud-native architectures. Adept at REST API development, containerization, and orchestration with Docker and Kubernetes. Passionate about AI/LLMs, having explored GPT-4 API integrations and prompt engineering for backend automation. Skilled at delivering product-focused solutions with a strong foundation in data structures, DBMS, and cloud computing</h3>
+<h3 align="center"> Software Engineer with 1+ years of experience in designing and building scalable, distributed backend systems and microservices using C (.NET Core), Java (Spring Boot), and cloud-native architectures. Adept at REST API development, containerization, and orchestration with Docker and Kubernetes. Passionate about AI/LLMs, having explored GPT-4 API integrations and prompt engineering for backend automation. Skilled at delivering product-focused solutions with a strong foundation in data structures, DBMS, and cloud computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva0123m&label=Profile%20views&color=0e75b6&style=flat" alt="shiva0123m" /> </p>
 
